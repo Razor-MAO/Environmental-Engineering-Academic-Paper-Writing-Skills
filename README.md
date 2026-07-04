@@ -19,17 +19,6 @@ A Codex skill for polishing English academic paragraphs — sentence-structure d
 
 Selecting outstanding papers from my research group in recent years, I distilled the skills summarized by AI tools. We will continuously iterate based on actual user experience.
 
-### File structure
-
-```
-lab-paper-polisher/
-├── SKILL.md                          # Skill instructions for Codex
-├── agents/
-│   └── openai.yaml                  # UI metadata
-└── references/
-    └── environmental-engineering-style.md  # Pre-built writing style guide
-```
-
 ### Feedback
 
 Open an issue or PR — every real-world case helps us refine the rules.
